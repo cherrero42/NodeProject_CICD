@@ -87,6 +87,7 @@ Learn how to use Cloud Code for:
     npm run deploy
     ```
 
+
 ### Run sample tests
 
 1. [Pass credentials via `GOOGLE_APPLICATION_CREDENTIALS` env var](https://cloud.google.com/docs/authentication/production#passing_variable):
